@@ -13,3 +13,5 @@ hi Big date
 this is a merge test
 this is a test about merge
 this is a test about clone
+this is a test about merge2
+this is a test about clone2
